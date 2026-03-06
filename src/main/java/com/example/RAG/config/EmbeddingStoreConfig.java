@@ -1,4 +1,4 @@
-package com.example.RAG;
+package com.example.RAG.config;
 
 import dev.langchain4j.data.segment.TextSegment;
 import dev.langchain4j.store.embedding.EmbeddingStore;

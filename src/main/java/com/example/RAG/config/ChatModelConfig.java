@@ -1,4 +1,4 @@
-package com.example.RAG;
+package com.example.RAG.config;
 
 import dev.langchain4j.model.chat.ChatLanguageModel;
 import dev.langchain4j.model.ollama.OllamaChatModel;

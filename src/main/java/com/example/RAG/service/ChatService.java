@@ -1,4 +1,4 @@
-package com.example.RAG;
+package com.example.RAG.service;
 
 import dev.langchain4j.service.SystemMessage;
 import dev.langchain4j.service.UserMessage;
